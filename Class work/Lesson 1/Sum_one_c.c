@@ -10,6 +10,6 @@ void main( )
 
     total=first_num + second_num;
 
-    printf("\n\nThe sum is %.2f\n\n",total);
+    printf("\n\nThe sum is %.2f\n",total);
 
 }
